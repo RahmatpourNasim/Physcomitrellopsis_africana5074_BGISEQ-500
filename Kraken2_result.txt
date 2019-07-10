@@ -1,0 +1,3 @@
+254808872 sequences (47531.49 Mbp) processed in 1612.163s (9483.2 Kseq/m, 1768.98 Mbp/m).
+199246490 sequences classified (78.19%)
+55562382 sequences unclassified (21.81%)
